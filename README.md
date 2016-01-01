@@ -1,7 +1,8 @@
 # Course Syllabi
 
-I keep syllabuses from my past courses online because someone else might find them useful. Some of these will not be taught again. The most recent ones are at the top.
-Usually I teach two courses each semester at UF.
+I keep syllabuses from my past courses online because someone else might find them useful. Each of these is a website. Older courses were static HTML sites that I built. Newer courses are at WordPress.com. The most recent courses are at the top. Usually I teach two courses each semester at UF.
+
+For a synopsis of any course, open the About page in the syllabus. For weekly topics and links to assignments, open the Course Schedule page.
 
 [Social Media Skills](https://socmeduf.wordpress.com/) JOU 4930 Spring 2016
 
