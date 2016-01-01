@@ -16,7 +16,7 @@ For a synopsis of any course, open the About page in the syllabus. For weekly to
 
 These are no longer offered.
 
-[Advanced Online Media Production](https://mmc4341.wordpress.com/) MMC 4341 Spring 2014
+[Advanced Online Media Production](https://mmc4341.wordpress.com/) MMC 4341 Spring 2015
 
 [(Un)Common Reading: Net Freedom](https://idh3931.wordpress.com/) IDH 3931 Fall 2013
 
@@ -28,4 +28,4 @@ These are no longer offered.
 
 [Technology, Change and Communications](http://www.macloo.com/syllabi/commtech/) MMC 2265 Spring 2008
 
-* JOU 4930 is a course number given to special topics and new courses that have not yet gone through a committee process to receive a unique course number. 
+* JOU 4930 is a course number given to special topics and new courses that have not yet gone through a committee process to receive a unique course number.
