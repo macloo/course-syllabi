@@ -4,11 +4,11 @@ I keep syllabuses from my past courses online because someone else might find th
 
 For a synopsis of any course, open the About page in the syllabus. For weekly topics and links to assignments, open the Course Schedule page.
 
-[Social Media Skills](https://socmeduf.wordpress.com/) JOU 4930 Spring 2016 (not yet updated for 2106)
+[Social Media Skills](https://socmeduf.wordpress.com/) JOU 4930* Spring 2016 (not yet updated for 2016)
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930 Spring 2016
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930* Spring 2016
 
-[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 4930 Fall 2015
+[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 4930* Fall 2015
 
 [New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2015 (graduate course)
 
@@ -24,6 +24,8 @@ These are no longer offered.
 
 [Advanced Online Media Production](http://www.macloo.com/syllabi/advancedonline/) MMC 4341 Spring 2011 (the last time I taught Adobe Flash)
 
-[Multimedia Reporting](http://www.macloo.com/syllabi/mreporting/) JOU 4930 Fall 2010
+[Multimedia Reporting](http://www.macloo.com/syllabi/mreporting/) JOU 4930* Fall 2010
 
 [Technology, Change and Communications](http://www.macloo.com/syllabi/commtech/) MMC 2265 Spring 2008
+
+* JOU 4930 is a course number given to special topics and new courses that have not yet gone through a committee process to receive a unique course number. 
