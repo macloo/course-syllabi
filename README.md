@@ -4,11 +4,13 @@ I keep syllabuses from my past courses online because someone else might find th
 
 For a synopsis of any course, open the **About** page in the syllabus. For weekly topics and links to assignments, open the **Course Schedule** page.
 
+All available course materials are free to use under the conditions of this license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ## Current courses
 
 [Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 4930* Fall 2016
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930* Spring 2016
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930* Spring 2016 (will be updated for 2017)
 
 [New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2016 (graduate course)
 
