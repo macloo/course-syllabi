@@ -30,6 +30,8 @@ These are no longer offered.
 
 [Multimedia Reporting](http://www.macloo.com/syllabi/mreporting/) JOU 4930* Fall 2010 (multimedia reporting skills)
 
+[Reporting & Writing for Online Media](http://www.macloo.com/syllabi/write/index.htm) JOU 4341 Fall 2008
+
 [Technology, Change and Communications](http://www.macloo.com/syllabi/commtech/) MMC 2265 Spring 2008 (history of communication technologies from cave painting to the Internet)
 
 \* JOU 4930 is a course number given to special topics and new courses that have not yet gone through a committee process to receive a unique course number.
