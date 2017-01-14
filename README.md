@@ -10,15 +10,15 @@ All available course materials are free to use under the conditions of this lice
 
 [Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 4930* Fall 2016
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930* Spring 2016 (will be updated for 2017)
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930* Spring 2017
+
+[Advanced Social Media](https://socmeduf.wordpress.com/) JOU 4930* Spring 2017
 
 [New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2016 (graduate course)
 
 ## Old courses
 
 These are no longer offered.
-
-[Social Media Skills](https://socmeduf.wordpress.com/) JOU 4930* Spring 2015 (this will be updated for Spring 2017)
 
 [Advanced Online Media Production](https://mmc4341.wordpress.com/) MMC 4341 Spring 2015
 
