@@ -8,9 +8,9 @@ All available course materials are free to use under the conditions of this lice
 
 ## Current courses
 
-[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 4930* Fall 2016
+[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 (used to be JOU 4930*) Fall 2017
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4930* Spring 2017
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 (used to be JOU 4930*) Spring 2018
 
 [Advanced Social Media](https://socmeduf.wordpress.com/) JOU 4930* Spring 2017
 
