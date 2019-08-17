@@ -8,17 +8,22 @@ All available course materials are free to use under the conditions of this lice
 
 ## Current courses
 
-[New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2017 (graduate course)
+[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 - Fall 2019
 
-[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 (used to be JOU 4930*) Fall 2017
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 - Spring 2019
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 (used to be JOU 4930*) Spring 2018
+Data Literacy - see [Dr. Lewis's course](http://www.bikeprof.com/undergrad-courses.html) for details - MMC 2450 - Fall 2019
 
-[Advanced Social Media](https://socmeduf.wordpress.com/) JOU 4930* Spring 2017
+[Web Apps and Coding](https://webappspm.wordpress.com/about/) MMC 6936 - Spring 2019 (graduate students)
+
 
 ## Old courses
 
 These are no longer offered.
+
+[New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2017 (graduate course)
+
+[Advanced Social Media](https://socmeduf.wordpress.com/) JOU 4930* Spring 2017
 
 [Advanced Online Media Production](https://mmc4341.wordpress.com/) MMC 4341 Spring 2015
 
