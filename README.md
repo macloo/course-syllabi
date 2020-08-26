@@ -6,19 +6,25 @@ For a synopsis of any course, open the **About** page in the syllabus. For weekl
 
 All available course materials are free to use under the conditions of this license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
 ## Current courses
 
-[New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2017 (graduate course)
+[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 Fall 2020
 
-[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 (used to be JOU 4930*) Fall 2017
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 Spring 2020
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 (used to be JOU 4930*) Spring 2018
+[Web Apps and Coding](https://webappspm.wordpress.com/) MMC 6936 (graduate) Spring 2020
 
-[Advanced Social Media](https://socmeduf.wordpress.com/) JOU 4930* Spring 2017
+Coming in Spring 2021: AI in Media and Society
+
 
 ## Old courses
 
 These are no longer offered.
+
+[New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2017 (graduate course)
+
+[Advanced Social Media](https://socmeduf.wordpress.com/) JOU 4930* Spring 2017
 
 [Advanced Online Media Production](https://mmc4341.wordpress.com/) MMC 4341 Spring 2015
 
