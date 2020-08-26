@@ -11,7 +11,7 @@ A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/u
 
 ## Current courses
 
-[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 Fall 2020
+[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 Fall 2020 [view PDF](https://www.scribd.com/document/472734974/Web-Apps-Syllabus-2020)
 
 [Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 Spring 2020
 
