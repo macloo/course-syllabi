@@ -6,6 +6,8 @@ For a synopsis of any course, open the **About** page in the syllabus. For weekl
 
 All available course materials are free to use under the conditions of this license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/user/36327934/Mindy-McAdams). If there’s something you can’t find, please [contact me](https://mindymcadams.com/).
+
 
 ## Current courses
 
