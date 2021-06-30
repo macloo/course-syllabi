@@ -15,7 +15,7 @@ A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/u
 
 [Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 Spring 2021
 
-[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou4930/) JOU 4930 Spring 2021 [PDF](https://www.scribd.com/document/513668271/JOU4930-Artificial-Intelligence-syllabus-spring-2021)
+[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou4930/) JOU 4930 Spring 2021 [view PDF](https://www.scribd.com/document/513668271/JOU4930-Artificial-Intelligence-syllabus-spring-2021)
 
 
 ## Old courses
