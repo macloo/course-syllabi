@@ -13,16 +13,16 @@ A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/u
 
 [Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 Fall 2020 [view PDF](https://www.scribd.com/document/472734974/Web-Apps-Syllabus-2020)
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 Spring 2020
+[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 Spring 2021
 
-[Web Apps and Coding](https://webappspm.wordpress.com/) MMC 6936 (graduate) Spring 2020
-
-Coming in Spring 2021: AI in Media and Society
+[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou4930/) JOU 4930 Spring 2021 [PDF](https://www.scribd.com/document/513668271/JOU4930-Artificial-Intelligence-syllabus-spring-2021)
 
 
 ## Old courses
 
 These are no longer offered.
+
+[Web Apps and Coding](https://webappspm.wordpress.com/) MMC 6936 (graduate) Spring 2020
 
 [New Media and a Democratic Society](https://mmc6612.wordpress.com/) MMC 6612 Fall 2017 (graduate course)
 
