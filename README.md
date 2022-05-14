@@ -1,21 +1,21 @@
 # Course Syllabi
 
-I keep syllabuses from my past courses online because someone else might find them useful. Each of these is a website. Older courses were static HTML sites that I built. Newer courses are at WordPress.com. The most recent courses are at the top. Usually I teach two courses each semester at UF.
+I keep syllabuses from my past courses online because someone else might find them useful. Older courses were static HTML sites that I built. Newer courses are at WordPress.com. The newest courses are in the university's LMS, but syllabuses are available here. Below, the most recent courses are at the top of the list. Usually I teach two courses each semester at UF.
 
-For a synopsis of any course, open the **About** page in the syllabus. For weekly topics and links to assignments, open the **Course Schedule** page.
+For a synopsis of any older course, open the **About** page in the website. For weekly topics and links to assignments, open the **Course Schedule** page.
 
 All available course materials are free to use under the conditions of this license: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/user/36327934/Mindy-McAdams). If there’s something you can’t find, please [contact me](https://mindymcadams.com/).
+A PDF for each old syllabus can be viewed/downloaded [here](https://www.scribd.com/user/36327934/Mindy-McAdams). If there’s something you can’t find, please [contact me](https://mindymcadams.com/).
 
 
 ## Current courses
 
-[Intro to Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou3363/) JOU 3363 Fall 2021 [view PDF](pdfs/Web_Apps_Syllabus_2021.pdf)
+[Intro to Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou3363/) | JOU 3363 Fall 2021 | [syllabus PDF](pdfs/Web_Apps_Syllabus_2021.pdf)
 
-[Advanced Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou4364/) JOU 4364 Spring 2022 [view PDF](pdfs/WebApps2_syllabus_s2022.pdf)
+[Advanced Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou4364/) | JOU 4364 Spring 2022 | [syllabus PDF](pdfs/WebApps2_syllabus_s2022.pdf)
 
-[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou3365/) JOU 3365 Spring 2022 [view PDF](pdfs/AI_and_Media_Syllabus_s2022.pdf)
+[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou3365/) | JOU 3365 Spring 2022 | [syllabus PDF](pdfs/AI_and_Media_Syllabus_s2022.pdf)
 
 
 ## Old courses
