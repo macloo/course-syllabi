@@ -13,7 +13,7 @@ A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/u
 
 [Intro to Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou3363/) JOU 3363 Fall 2021 [view PDF](pdfs/Web_Apps_Syllabus_2021.pdf)
 
-[Advanced Web Apps](http://faculty.jou.ufl.edu/mmcadams/4364/) JOU 4364 Spring 2022 [view PDF](pdfs/WebApps2_syllabus_s2022.pdf)
+[Advanced Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou4364/) JOU 4364 Spring 2022 [view PDF](pdfs/WebApps2_syllabus_s2022.pdf)
 
 [AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou3365/) JOU 3365 Spring 2022 [view PDF](pdfs/AI_and_Media_Syllabus_s2022.pdf)
 
