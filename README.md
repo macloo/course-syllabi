@@ -11,11 +11,11 @@ A PDF for each syllabus can be viewed/downloaded [here](https://www.scribd.com/u
 
 ## Current courses
 
-[Intro to Web Apps](https://introwebapps.wordpress.com/) JOU 3363 Fall 2020 [view PDF](https://www.scribd.com/document/472734974/Web-Apps-Syllabus-2020)
+[Intro to Web Apps](http://faculty.jou.ufl.edu/mmcadams/jou3363/) JOU 3363 Fall 2021 [view PDF](pdfs/Web_Apps_Syllabus_2021.pdf)
 
-[Advanced Web Apps](https://webappsplus.wordpress.com/) JOU 4364 Spring 2021
+[Advanced Web Apps](http://faculty.jou.ufl.edu/mmcadams/4364/) JOU 4364 Spring 2022 [view PDF](pdfs/WebApps2_syllabus_s2022.pdf)
 
-[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou4930/) JOU 4930 Spring 2021 [view PDF](https://www.scribd.com/document/513668271/JOU4930-Artificial-Intelligence-syllabus-spring-2021)
+[AI in Media and Society](http://faculty.jou.ufl.edu/mmcadams/jou3365/) JOU 3365 Spring 2022 [view PDF](pdfs/AI_and_Media_Syllabus_s2022.pdf)
 
 
 ## Old courses
