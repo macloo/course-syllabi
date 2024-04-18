@@ -1,5 +1,7 @@
 # Playlists - YouTube videos made by Mindy McAdams
 
+The videos on these playlists were created in 2018 for use by anyone at all, but specifically for use by my journalism students in a course called Intro to Web Apps at the University of Florida.
+
 [JavaScript Beginners](https://www.youtube.com/playlist?list=PLrSy-6zPPndmuxnyUwOEPngT9aP6m_2On)
 * 29 videos
 * 7,906 views
