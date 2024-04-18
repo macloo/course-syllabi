@@ -2,6 +2,8 @@
 
 The videos on these playlists were created in 2018 for use by anyone at all, but specifically for use by my journalism students in a course called Intro to Web Apps at the University of Florida. The view counts were captured on April 18, 2024, and might be different today. View counts are for the playlists only; some of the single videos have thousands of views. Example: [6,000 views](https://www.youtube.com/watch?v=wOdSgNomgIo&list=PLrSy-6zPPndmdx0oEAyk9B3zOm2pao5k6&index=9)
 
+A module is equivalent to one week in the course.
+
 [JavaScript Beginners](https://www.youtube.com/playlist?list=PLrSy-6zPPndmuxnyUwOEPngT9aP6m_2On)
 * 29 videos
 * 7,906 views
